@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ZipStep<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Laravel, React Native, DevOps & AWS Deployment<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on ZipStep<br>🌱 I’m currently learning Laravel, React Native, DevOps & AWS Deployment
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=lalitharw&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
